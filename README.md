@@ -61,6 +61,7 @@ A link to the main page of the Group 7 Final Project GitHub repsoitory can be fo
 
 Branches have been created for each member of the group.
 ![Segment_1_Image_1_Active_Branches](https://user-images.githubusercontent.com/92111396/159023203-74e01501-5741-4d6e-b2c6-e72b47893cda.png)
+https://github.com/Rangisal/Group-7-Project/blob/mcbride_branch/Images/Segment_1_Image_1_Active_Branches.png
 
 **Communication Protocols - Standard Operating Procedures (SOPs)**
 1. Weekly meeting will be held on Tuesday and Thursday of each week (1900-2100).
