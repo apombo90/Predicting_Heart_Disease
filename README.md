@@ -93,9 +93,10 @@ https://github.com/Rangisal/Group-7-Project/blob/main/Logistic_Regression_Heart_
 
 **Database**
 
-A preview of the SQL Database code can be found here:
+A preview of the SQL Database code can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/HeartDisease_DB%20creation.sql):
 
-https://github.com/Rangisal/Group-7-Project/blob/main/HeartDisease_DB%20creation.sql
+![pgAdmin Heart_Disease_db creation](https://user-images.githubusercontent.com/42978221/159190443-a7a88b8c-921f-4dda-b5fa-1bded3193aea.png)
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
