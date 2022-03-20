@@ -95,6 +95,7 @@ https://github.com/Rangisal/Group-7-Project/blob/main/Logistic_Regression_Heart_
 
 A preview of the SQL Database code can be found here:
 
+https://github.com/Rangisal/Group-7-Project/blob/main/HeartDisease_DB%20creation.sql
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ## Segment 2 Deliverables
