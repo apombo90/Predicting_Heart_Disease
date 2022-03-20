@@ -82,6 +82,7 @@ A weekly tracker has also been created and will be uploaded to GitHub outlining 
 **Machine Learning Model**
 
 A preview of the machine learning model code can be found here:
+
 https://github.com/Rangisal/Group-7-Project/blob/main/Logistic_Regression_Heart_Disease.ipynb
 
 **Database**
