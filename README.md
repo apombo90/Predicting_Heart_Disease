@@ -98,7 +98,7 @@ A preview of the SQL Database code can be found [here](https://github.com/Rangis
 
 ## ## Segment 2 Deliverables
 
-Link to Dashboard: https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/HealthDashboard?publish=yes
+Link to Dashboard: https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/GeneralOverview
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
