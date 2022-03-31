@@ -95,7 +95,7 @@ A preview of the SQL Database code can be found [here](https://github.com/Rangis
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ## Segment 2 Deliverables
+## Segment 2 Deliverables
 
 **Presentation**
 
