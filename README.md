@@ -92,13 +92,41 @@ A preview of the SQL Database code can be found [here](https://github.com/Rangis
 
 ![pgAdmin Heart_Disease_db creation](https://user-images.githubusercontent.com/42978221/159190443-a7a88b8c-921f-4dda-b5fa-1bded3193aea.png)
 
-** Regression
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ## Segment 2 Deliverables
 
-Link to Dashboard: https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/GeneralOverview
+**Presentation**
+
+A link to the Google Slides presentation can be found here:
+
+The above presentation will outline:
+1.	The selected topic.
+2.	Reason why the topic was selected.
+3.	Questions we hope to answer with the data.
+4.	A description of the data exploration phase of the project.
+
+**GitHub**
+
+A link to the main page of the Group 7 Final Project GitHub repository can be found here: https://github.com/Rangisal/Group-7-Project.
+
+A link to the branches of the Group 7 Final Project GitHub repository can be found here: https://github.com/Rangisal/Group-7-Project/branches.
+
+**Machine Learning Model**
+
+A link to the machine learning of the Group 7 Final Project GitHub repository can be found here:
+
+**Database**
+
+A link to the database of the Group 7 Final Project GitHub repository can be found here:
+
+**Dashboard**
+
+A link to the dashboard of the Group 7 Final Project GitHub repository can be found here: https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/GeneralOverview
+
+Tableau Public was the tool used to create the dashboard. The dashboard tells the story of the data and presents it in a visually appealing way that aims to allow audiences, particularly physicians, and to a lesser extent the lay public as to what the main influencers are of heart disease and to what degree each factor can influence an individual’s ability to develop heart disease. The dashboard was comprised of elements that outline each factors relationship to the overall data. Visually, individual health concerns and factors such gender and smoking habits are delineated by colour and hovering over each parcel of data on a particular graph provides a specific insight for that datum.  
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
