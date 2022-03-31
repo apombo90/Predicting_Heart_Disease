@@ -22,9 +22,9 @@ Using the machine learning model, determine its ability to accurately predict he
 
 ## **Resources**
 
--Data Source: heart_disease_key_indicators.csv
+-Data Source: `heart_disease_key_indicators.csv`
 
--Software: Python 3.7.10; Visual Studio Code, 1.38.1; Jupyter Notebook; Anaconda3, PgAdmin. 
+-Software: `Python 3.7.10`, `Visual Studio Code 1.38.1`, `Jupyter Notebook`, `Anaconda3`, `PgAdmin`. 
 
 -Resources: https://www.kaggle.com/datasets?search=heart+disease.
 
@@ -43,9 +43,9 @@ We will be using the Agile approach to project management. Based on the fact tha
 Furthermore, this approach prevents members from being solely responsible for one task throughout and encourages a collaborative team. 
 
 **Topic Selection**
-We selected a dataset that analyses factors that lead to heart disease. We reviewed several other open-source datasets however, we selected this one based on interest, its relevancy, and the ability of the created machine learning model to be applicable to real world scenarios and provide a foundation from which similar datasets could be anlaysed.
+We selected a dataset that analyses factors that lead to heart disease. We reviewed several other open-source datasets however, we selected this one based on interest, its relevancy, and the ability of the created machine learning model to be applicable to real world scenarios and provide a foundation from which similar datasets could be analysed.
 
-A link to the dataset can be foudn here : https://github.com/Rangisal/Group-7-Project/blob/main/Resources/heart_disease_key_indicators.csv.
+A link to the dataset can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Resources/heart_disease_key_indicators.csv):
 
 **Questions To Be Answered**
 
@@ -57,11 +57,11 @@ We hope to answer the following questions throughout the project:
 
 **GitHub**
 
-A link to the main page of the Group 7 Final Project GitHub repsoitory can be found here: https://github.com/Rangisal/Group-7-Project.
+A link to the main page of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project):
 
-Branches have been created for each member of the group.
+
+[Branches](https://github.com/Rangisal/Group-7-Project/blob/mcbride_branch/Images/Segment_1_Image_1_Active_Branches.png) have been created for each member of the group.
 ![Segment_1_Image_1_Active_Branches](https://user-images.githubusercontent.com/92111396/159023203-74e01501-5741-4d6e-b2c6-e72b47893cda.png)
-https://github.com/Rangisal/Group-7-Project/blob/mcbride_branch/Images/Segment_1_Image_1_Active_Branches.png
 
 **Communication Protocols - Standard Operating Procedures (SOPs)**
 1. Weekly meeting will be held on Tuesday and Thursday of each week (1900-2100).
@@ -76,16 +76,23 @@ https://github.com/Rangisal/Group-7-Project/blob/mcbride_branch/Images/Segment_1
 10. Alert the team to all commits to main GitHub page.
 11. All code uploaded to the main page should be reviewed by at least 1 other member.
 
-A weekly tracker has also been created and will be uploaded to GitHub outlining each member’s tasks and the priority of work for the week. A link to the powerpoint presentation and weekly task tracker can be found here: https://github.com/Rangisal/Group-7-Project/blob/main/Data%20Analytics%20Group%207%20Workflow%20Procedure.pptx.
+A weekly tracker has also been created and will be uploaded to GitHub outlining each member’s tasks and the priority of work for the week. A link to the PowerPoint presentation and weekly task tracker can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Data%20Analytics%20Group%207%20Workflow%20Procedure.pptx): 
 
 
 **Machine Learning Model**
 
-A preview of the machine learning model code can be found here:
+A preview of the machine learning model code can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Logistic_Regression_Heart_Disease.ipynb):
+
+![Logistic_Regression_Heart_Disease](https://user-images.githubusercontent.com/42978221/159191274-773cead5-839b-4f86-a682-ac65068c2521.png)
+
 
 **Database**
 
-A preview of the SQL Database code can be found here:
+A preview of the SQL Database code can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/HeartDisease_DB%20creation.sql):
+
+![pgAdmin Heart_Disease_db creation](https://user-images.githubusercontent.com/42978221/159190443-a7a88b8c-921f-4dda-b5fa-1bded3193aea.png)
+
+** Regression
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -122,3 +129,4 @@ Link to Dashboard: https://public.tableau.com/app/profile/ethan.mcbride/viz/Hear
 
 
 **Recommendation**
+
