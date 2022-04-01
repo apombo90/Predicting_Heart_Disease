@@ -24,6 +24,6 @@ CREATE TABLE nonbinary_data (
 	Diabetic VARCHAR NOT NULL,
 	GenHealth VARCHAR NOT NULL,
 	SleepTime INT NOT NULL,
-	FOREIGN KEY (id) REFERENCES binary_data (id),
-	PRIMARY KEY (id)
+	FOREIGN KEY (id) REFERENCES binary_data (id)
 );
+
