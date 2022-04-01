@@ -1,3 +1,4 @@
+CREATE TABLE heart_disease_key_indicators AS
 SELECT
 	binary_data.id,
 	binary_data.heartdisease,
