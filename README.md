@@ -85,6 +85,12 @@ A preview of the machine learning model code can be found [here](https://github.
 
 ![Logistic_Regression_Heart_Disease](https://user-images.githubusercontent.com/42978221/159191274-773cead5-839b-4f86-a682-ac65068c2521.png)
 
+The Logistic Regression model compares the actual outcome (y-test) from the test set against the model's predicted values (predictions). 
+We obtained the accuracy score of the model, which is simply the percentage of predictions that are correct. In our case, the model's accuracy score is 0.916, meaning that the model was correct 91.6% of the time.
+
+Additionally, we implemented a random forest algorithm into our analysis to rank the importance of input variables in our predictions.
+It is clear that the most relevant features to impact decisions based on our model are SleepTime, PhysicalHealth and MentalHealth, followed by others.
+
 
 **Database**
 
