@@ -99,7 +99,7 @@ A preview of the SQL Database code can be found [here](https://github.com/Rangis
 
 **Presentation**
 
-A link to the Google Slides presentation can be found here:
+A link to the Google Slides presentation can be found [here] https://github.com/Rangisal/Group-7-Project/blob/main/Project%20-%20Group%207.pptx
 
 The above presentation will outline:
 1.	The selected topic.
