@@ -109,9 +109,9 @@ The above presentation will outline:
 
 **GitHub**
 
-A link to the main page of the Group 7 Final Project GitHub repository can be found here: https://github.com/Rangisal/Group-7-Project.
+A link to the main page of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project).
 
-A link to the branches of the Group 7 Final Project GitHub repository can be found here: https://github.com/Rangisal/Group-7-Project/branches.
+A link to the branches of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/branches).
 
 **Machine Learning Model**
 
@@ -123,7 +123,7 @@ A link to the database of the Group 7 Final Project GitHub repository can be fou
 
 **Dashboard**
 
-A link to the dashboard of the Group 7 Final Project GitHub repository can be found here: https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/GeneralOverview
+A link to the dashboard of the Group 7 Final Project GitHub repository can be found [here](https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/GeneralOverview).
 
 Tableau Public was the tool used to create the dashboard. The dashboard tells the story of the data and presents it in a visually appealing way that aims to allow audiences, particularly physicians, and to a lesser extent the lay public as to what the main influencers are of heart disease and to what degree each factor can influence an individual’s ability to develop heart disease. The dashboard was comprised of elements that outline each factors relationship to the overall data. Visually, individual health concerns and factors such gender and smoking habits are delineated by colour and hovering over each parcel of data on a particular graph provides a specific insight for that datum.  
 
