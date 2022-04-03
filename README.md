@@ -115,11 +115,11 @@ A link to the branches of the Group 7 Final Project GitHub repository can be fou
 
 **Machine Learning Model**
 
-A link to the machine learning of the Group 7 Final Project GitHub repository can be found here:
+A link to the machine learning of the Group 7 Final Project GitHub repository can be found [here] https://github.com/Rangisal/Group-7-Project/blob/main/Random%20Forest%20Classifier%20Model..ipynb
 
 **Database**
 
-A link to the database of the Group 7 Final Project GitHub repository can be found here:
+A link displaying the code in the database of the Group 7 Final Project GitHub repository can be found [here] https://github.com/Rangisal/Group-7-Project/blob/main/binary_nonbinary_tables.sql
 
 **Dashboard**
 
