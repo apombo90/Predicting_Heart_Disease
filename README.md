@@ -85,12 +85,6 @@ A preview of the machine learning model code can be found [here](https://github.
 
 ![Logistic_Regression_Heart_Disease](https://user-images.githubusercontent.com/42978221/159191274-773cead5-839b-4f86-a682-ac65068c2521.png)
 
-The Logistic Regression model compares the actual outcome (y-test) from the test set against the model's predicted values (predictions). 
-We obtained the accuracy score of the model, which is simply the percentage of predictions that are correct. In our case, the model's accuracy score is 0.916, meaning that the model was correct 91.6% of the time.
-
-Additionally, we implemented a random forest algorithm into our analysis to rank the importance of input variables in our predictions.
-It is clear that the most relevant features to impact decisions based on our model are SleepTime, PhysicalHealth and MentalHealth, followed by others.
-
 
 **Database**
 
@@ -122,6 +116,17 @@ A link to the branches of the Group 7 Final Project GitHub repository can be fou
 **Machine Learning Model**
 
 A link to the machine learning of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Random%20Forest%20Classifier%20Model..ipynb).
+
+The Logistic Regression model compares the actual outcome (y-test) from the test set against the model's predicted values (predictions). 
+We obtained the accuracy score of the model, which is simply the percentage of predictions that are correct. In our case, the model's accuracy score is 0.916, meaning that the model was correct 91.6% of the time.
+
+![Seg2 - Regression - Model validation Results](https://user-images.githubusercontent.com/42978221/161459329-e99ca650-0438-448e-88c9-38c3c6c3f7d4.png)
+
+Additionally, we implemented a random forest algorithm into our analysis to rank the importance of input variables in our predictions.
+It is clear that the most relevant features to impact decisions based on our model are SleepTime, PhysicalHealth and MentalHealth, followed by others.
+
+![Seg2 - Randon Forest - Rank Important Features](https://user-images.githubusercontent.com/42978221/161459364-ce49f15b-710b-4b2e-a1af-ecedd6eb1abd.png)
+
 
 **Database**
 
