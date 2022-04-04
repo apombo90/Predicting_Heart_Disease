@@ -125,7 +125,7 @@ A link to the machine learning of the Group 7 Final Project GitHub repository ca
 
 **Database**
 
-A link displaying the code in the database of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/binary_nonbinary_tables.sql) and the code for the join can be found [here] (https://github.com/Rangisal/Group-7-Project/blob/main/tables_join.sql).
+A link displaying the code in the database of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/binary_nonbinary_tables.sql) and the code for the join can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/tables_join.sql).
 
 **Dashboard**
 
