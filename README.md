@@ -148,7 +148,7 @@ Tableau Public was the tool used to create the dashboard. The dashboard tells th
 ## Segment 3 Deliverables
 
 **Presentation**
-A link to the Google Slides presentation can be found here.
+A link to the Google Slides presentation can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Project%20-%20Group%207.pptx).
 
 The above presentation will outline with more information than the segment 2:
 
@@ -161,6 +161,11 @@ The above presentation will outline with more information than the segment 2:
 7. Technologies , languages , tools and algorithms used throughout the project.
 
 **Github**
+
+A link to the main page of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project).
+
+A link to the branches of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/branches).
+
 
 **Machine Learning Model**
 
