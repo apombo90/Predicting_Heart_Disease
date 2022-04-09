@@ -247,7 +247,9 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance
 
 -Random Forest Classifier Undersampling Score: 64%
 
+
 A link to images of the results can be found [here](https://github.com/Rangisal/Group-7-Project/tree/main/Images/Results).
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
