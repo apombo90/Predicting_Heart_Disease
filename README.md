@@ -22,7 +22,7 @@ Using the machine learning model, determine its ability to accurately predict he
 
 ## **Resources**
 
--Data Source: `heart_disease_key_indicators.csv`
+-Data Source: `heart_disease_key_indicators.csv', 'binary_data.csv, 'heart_dummies.csv', 'heart_undersampled.csv', 'heart_clean.csv', 'non-binary_data.csv', 'HeartDisease_ERD.png'.
 
 -Software: `Python 3.7.10`, `Visual Studio Code 1.38.1`, `Jupyter Notebook`, `Anaconda3`, `PgAdmin`. 
 
