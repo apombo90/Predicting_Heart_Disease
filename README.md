@@ -209,26 +209,35 @@ Sensitivity = TP/(TP + FN) Sensitivity is a measure of the probability of a posi
 F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance between sensitivity and precision will yield a low F1 score.
 
 
-Accuracy Score
-Linear Regression Undersampling Score: 76%
-Linear Regression Oversampling Score: 76%
-Random Forest Classifier Undersampling Score: 64%
+**Accuracy Score**
+-Linear Regression Undersampling Score: 76%
+
+-Linear Regression Oversampling Score: 76%
+
+-Random Forest Classifier Undersampling Score: 64%
 
 
-Precision Score
-Linear Regression Undersampling Score: 76%
-Linear Regression Oversampling Score: 77%
-Random Forest Classifier Undersampling Score: 67%
-Recall (Sensitivity) Score
-Linear Regression Undersampling Score: 76%
-Linear Regression Oversampling Score: 77%
-Random Forest Classifier Undersampling Score: 65%
+**Precision Score**
+-Linear Regression Undersampling Score: 76%
+
+-Linear Regression Oversampling Score: 77%
+
+-Random Forest Classifier Undersampling Score: 67%
+
+**Recall (Sensitivity) Score**
+-Linear Regression Undersampling Score: 76%
+
+-Linear Regression Oversampling Score: 77%
+
+-Random Forest Classifier Undersampling Score: 65%
 
 
-F1 Score 
-Linear Regression Undersampling Score: 76%
-Linear Regression Oversampling Score: 77%
-Random Forest Classifier Undersampling Score: 64%
+**F1 Score** 
+-Linear Regression Undersampling Score: 76%
+
+-Linear Regression Oversampling Score: 77%
+
+-Random Forest Classifier Undersampling Score: 64%
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
