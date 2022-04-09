@@ -203,13 +203,18 @@ The purpose of this assignment was to create a machine learning model that could
 ## **Results**
 
 **Definitions and Calculations of Scores**
+
 Accuracy: the difference between its predicted values and actual values.
+
 Precision: Precision = TP/(TP + FP) Precision is a measure of how reliable a positive classification is.
+
 Sensitivity = TP/(TP + FN) Sensitivity is a measure of the probability of a positive test, conditioned on truly having the condition.
+
 F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance between sensitivity and precision will yield a low F1 score.
 
 
 **Accuracy Score**
+
 -Linear Regression Undersampling Score: 76%
 
 -Linear Regression Oversampling Score: 76%
@@ -218,6 +223,7 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance
 
 
 **Precision Score**
+
 -Linear Regression Undersampling Score: 76%
 
 -Linear Regression Oversampling Score: 77%
@@ -225,6 +231,7 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance
 -Random Forest Classifier Undersampling Score: 67%
 
 **Recall (Sensitivity) Score**
+
 -Linear Regression Undersampling Score: 76%
 
 -Linear Regression Oversampling Score: 77%
@@ -233,6 +240,7 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance
 
 
 **F1 Score** 
+
 -Linear Regression Undersampling Score: 76%
 
 -Linear Regression Oversampling Score: 77%
