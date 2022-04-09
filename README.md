@@ -147,6 +147,11 @@ Tableau Public was the tool used to create the dashboard. The dashboard tells th
 
 ## Segment 3 Deliverables
 
+**Presentation**
+**Github**
+**Machine Learning Model**
+**Database**
+**Dashboard**
 
 
 
