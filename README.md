@@ -169,6 +169,10 @@ A link to the branches of the Group 7 Final Project GitHub repository can be fou
 
 **Machine Learning Model**
 
+A link to the machine learning of the Group 7 Final Project GitHub repository can be found [here]
+
+
+
 **Database**
 
 **Dashboard**
