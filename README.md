@@ -210,5 +210,3 @@ A link to the dashboard of the Group 7 Final Project GitHub repository can be fo
 
 
 **Recommendation**
-
-
