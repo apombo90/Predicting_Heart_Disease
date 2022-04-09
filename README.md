@@ -195,6 +195,7 @@ A link to the dashboard of the Group 7 Final Project GitHub repository can be fo
 
 ## **Purpose**
 
+The purpose of this assignment was to create a machine learning model that could be used to predict heart disease within individuals, based on seventeen key lifestyle factors including an individual’s body mass index (BMI), physical activity status, age, sex, and various health factors ranging from their smoking status to their sleep time. The machine learning models that were identified to perform this task were a Linear Regression Model and Random Forest Classifier Model; data was oversampled and undersampled within the linear regression model using the “resample” algorithm, while the newly extracted over and undersampled data was used in the Random Forest Classifier model. 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
