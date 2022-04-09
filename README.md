@@ -248,11 +248,22 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance
 -Random Forest Classifier Undersampling Score: 64%
 
 
+A link to images of the results can be found [here](https://github.com/Rangisal/Group-7-Project/tree/main/Images/Results).
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Summary**
 
 **Data Results**
 
+Based on the above accuracy scores, we can see that Linear Regression machine learning model had the highest rate of accuracy with the ability to predict the correct values 77% of the time. Taken individually, the resampling models had similar accuracy scores falling between 76% and 77%, with the both the oversampling and the undersampling techniques receiving the same accuracy score of 76%. The Random Forest Classifier Model fell in this category receiving an accuracy score of only 67% which falls ten percent short of the linear regression model. 
+
+The precision scores for the two machine learning models effectively yielded the same percentages as compared to the accuracy scores. This means that machine learning models can be relied upon to likely predict a positive classification 76%, 77%, and 64% of the time respectively for logistical regression undersampling, for logistical regression oversampling, and Random Forest Classifier Undersampling. However, the precision score alone can tell us very little, and it must be coupled with the sensitivity of the score. The sensitivity scores effectively tell us how reliable in our prediction our tests are, that is to say, how fine-tuned or the probability of a positive test, conditioned on truly having the condition. Based on the above scores, it is evident Linear Regression Models were better tuned to correctly predict heart disease risk potential. The Balanced Random Forest Classifier had a recall score of 65%, while the Linear Regression Model had a recall score of 77%, once again ranking it as the most effective machine learning models for prediction. 
+
+The F1 scores of each model effectively tell us is there is a pronounced imbalance between sensitivity and precision; a pronounced imbalanced will yield a low F1 score. Based on this, we can again see that Random Forest Classifier methods fall short compared to the Linear Regression machine learning models, with the Random Forest Classifier undersampling technique having the lowest F1 score of 0.64 and with the Linear Regression Oversampling having the largest F1 score of 0.77, thereby demonstrating the least disparity between sensitivity and precision.
+
 
 **Recommendation**
+
+Based on the results and the subsequent analysis of the data, it is my recommendation that the Linear Regression machine learning model, oversampling method be adopted for use in predicting credit risk. It consistently had the highest scores, particularly in accuracy, precision, and sensitivity, and thus correctly made the correct predictions compared to the other models.
