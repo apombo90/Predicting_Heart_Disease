@@ -152,16 +152,20 @@ A link to the Google Slides presentation can be found here.
 
 The above presentation will outline with more information than the segment 2:
 
-The selected topic.
-Reason why the topic was selected.
-Description of source of data.
-Questions we hope to answer with the data.
-A description of the data exploration phase of the project.
-A description of the analysis phase of the project.
-Technologies , languages , tools and algorithms used throughout the project.
+1. The selected topic.
+2. Reason why the topic was selected.
+3. Description of source of data.
+4. Questions we hope to answer with the data.
+5. A description of the data exploration phase of the project.
+6. A description of the analysis phase of the project.
+7. Technologies , languages , tools and algorithms used throughout the project.
+
 **Github**
+
 **Machine Learning Model**
+
 **Database**
+
 **Dashboard**
 
 
