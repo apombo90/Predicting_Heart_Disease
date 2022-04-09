@@ -95,11 +95,11 @@ A preview of the SQL Database code can be found [here](https://github.com/Rangis
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ## Segment 2 Deliverables
+## Segment 2 Deliverables
 
 **Presentation**
 
-A link to the Google Slides presentation can be found here:
+A link to the Google Slides presentation can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Project%20-%20Group%207.pptx).
 
 The above presentation will outline:
 1.	The selected topic.
@@ -109,35 +109,88 @@ The above presentation will outline:
 
 **GitHub**
 
-A link to the main page of the Group 7 Final Project GitHub repository can be found here: https://github.com/Rangisal/Group-7-Project.
+A link to the main page of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project).
 
-A link to the branches of the Group 7 Final Project GitHub repository can be found here: https://github.com/Rangisal/Group-7-Project/branches.
+A link to the branches of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/branches).
 
 **Machine Learning Model**
 
-A link to the machine learning of the Group 7 Final Project GitHub repository can be found here:
+A link to the machine learning of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Random%20Forest%20Classifier%20Model..ipynb).
+
+The Logistic Regression model compares the actual outcome (y-test) from the test set against the model's predicted values (predictions). 
+We obtained the accuracy score of the model, which is simply the percentage of predictions that are correct. In our case, the model's accuracy score is 0.916, meaning that the model was correct 91.6% of the time.
+
+![Seg2 - Regression - Model validation Results](https://user-images.githubusercontent.com/42978221/161459329-e99ca650-0438-448e-88c9-38c3c6c3f7d4.png)
+
+Additionally, we implemented a random forest algorithm into our analysis to rank the importance of input variables in our predictions.
+It is clear that the most relevant features to impact decisions based on our model are SleepTime, PhysicalHealth and MentalHealth, followed by others.
+
+![Seg2 - Randon Forest - Rank Important Features](https://user-images.githubusercontent.com/42978221/161459364-ce49f15b-710b-4b2e-a1af-ecedd6eb1abd.png)
+
 
 **Database**
 
-A link to the database of the Group 7 Final Project GitHub repository can be found here:
+A link displaying the code in the database of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/binary_nonbinary_tables.sql) where two tables were created, one with binary data and the second table only containing non-binary data. We were able to join both tables using an inner join on the **id** column, the join can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/tables_join.sql).
+
+![image](https://user-images.githubusercontent.com/91766276/161567395-db098bfb-6429-4fd0-a77e-43695c2a18b2.png) ![image](https://user-images.githubusercontent.com/91766276/161568335-0967fd5d-024b-4974-8e41-e16e763810ff.png)
+
+
 
 **Dashboard**
 
-A link to the dashboard of the Group 7 Final Project GitHub repository can be found here: https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/GeneralOverview
+A link to the dashboard of the Group 7 Final Project GitHub repository can be found [here](https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/GeneralOverview).
 
 Tableau Public was the tool used to create the dashboard. The dashboard tells the story of the data and presents it in a visually appealing way that aims to allow audiences, particularly physicians, and to a lesser extent the lay public as to what the main influencers are of heart disease and to what degree each factor can influence an individual’s ability to develop heart disease. The dashboard was comprised of elements that outline each factors relationship to the overall data. Visually, individual health concerns and factors such gender and smoking habits are delineated by colour and hovering over each parcel of data on a particular graph provides a specific insight for that datum.  
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ## Segment 3 Deliverables
+## Segment 3 Deliverables
+
+**Presentation**
+A link to the Google Slides presentation can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Project%20-%20Group%207.pptx).
+
+The above presentation will outline with more information than the segment 2:
+
+1. The selected topic.
+2. Reason why the topic was selected.
+3. Description of source of data.
+4. Questions we hope to answer with the data.
+5. A description of the data exploration phase of the project.
+6. A description of the analysis phase of the project.
+7. Technologies , languages , tools and algorithms used throughout the project.
+
+**Github**
+
+A link to the main page of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project).
+
+A link to the branches of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/branches).
 
 
+**Machine Learning Model**
 
+A link to the machine learning model for logistic regression of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Logistic_Regression_Heart_Disease.ipynb)
+
+A link to the machine learning model for random forest model of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Random%20Forest%20Classifier%20Model..ipynb)
+
+Each model describes the following information,
+
+1. Description of data preprocessing 
+2. Description of feature engineering and the feature selection, including their decesion making process.
+3. Description of how data was split in to training and testing sets.
+4. Expalnation of model choice including limitations and benefits.
+5. Explanation of changes in model choice.( between seg 2 seg 3)
+6. Description of how the data have been trained the model and any additional training that took place.
+7. Description of current accuracy score. 
+
+
+**Dashboard**
+
+A link to the dashboard of the Group 7 Final Project GitHub repository can be found [here](https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/GeneralOverview).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ## Segment 4 Deliverables
+## Segment 4 Deliverables
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Purpose**
@@ -157,4 +210,5 @@ Tableau Public was the tool used to create the dashboard. The dashboard tells th
 
 
 **Recommendation**
+
 
