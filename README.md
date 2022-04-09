@@ -171,16 +171,22 @@ A link to the branches of the Group 7 Final Project GitHub repository can be fou
 
 A link to the machine learning model for logistic regression of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Logistic_Regression_Heart_Disease.ipynb)
 
-A link to the machine learning model for logistic regression of the Group 7 Final Project GitHub repository can be found [here]
+A link to the machine learning model for random forest model of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Random%20Forest%20Classifier%20Model..ipynb)
 
+Each model describes the following information,
 
+1. Description of data preprocessing 
+2. Description of feature engineering and the feature selection, including their decesion making process.
+3. Description of how data was split in to training and testing sets.
+4. Expalnation of model choice including limitations and benefits.
+5. Explanation of changes in model choice.( between seg 2 seg 3)
+6. Description of how the data have been trained the model and any additional training that took place.
+7. Description of current accuracy score. 
 
-
-**Database**
 
 **Dashboard**
 
-
+A link to the dashboard of the Group 7 Final Project GitHub repository can be found [here](https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/GeneralOverview).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
