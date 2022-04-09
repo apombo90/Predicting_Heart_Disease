@@ -148,6 +148,17 @@ Tableau Public was the tool used to create the dashboard. The dashboard tells th
 ## Segment 3 Deliverables
 
 **Presentation**
+A link to the Google Slides presentation can be found here.
+
+The above presentation will outline with more information than the segment 2:
+
+The selected topic.
+Reason why the topic was selected.
+Description of source of data.
+Questions we hope to answer with the data.
+A description of the data exploration phase of the project.
+A description of the analysis phase of the project.
+Technologies , languages , tools and algorithms used throughout the project.
 **Github**
 **Machine Learning Model**
 **Database**
