@@ -266,4 +266,4 @@ The F1 scores of each model effectively tell us is there is a pronounced imbalan
 
 **Recommendation**
 
-Based on the results and the subsequent analysis of the data, it is my recommendation that the Linear Regression machine learning model, oversampling method be adopted for use in predicting credit risk. It consistently had the highest scores, particularly in accuracy, precision, and sensitivity, and thus correctly made the correct predictions compared to the other models.
+Based on the results and the subsequent analysis of the data, it is my recommendation that the Linear Regression machine learning model, oversampling method be adopted for use in predicting heart disease risk. It consistently had the highest scores, particularly in accuracy, precision, and sensitivity, and thus correctly made the correct predictions compared to the other models.
