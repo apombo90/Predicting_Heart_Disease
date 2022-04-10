@@ -22,7 +22,7 @@ Using the machine learning model, determine its ability to accurately predict he
 
 ## **Resources**
 
--Data Source: `heart_disease_key_indicators.csv`
+-Data Source: `heart_disease_key_indicators.csv', 'binary_data.csv, 'heart_dummies.csv', 'heart_undersampled.csv', 'heart_clean.csv', 'non-binary_data.csv', 'HeartDisease_ERD.png'.
 
 -Software: `Python 3.7.10`, `Visual Studio Code 1.38.1`, `Jupyter Notebook`, `Anaconda3`, `PgAdmin`. 
 
@@ -147,8 +147,46 @@ Tableau Public was the tool used to create the dashboard. The dashboard tells th
 
 ## Segment 3 Deliverables
 
+**Presentation**
+A link to the Google Slides presentation can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Project%20-%20Group%207.pptx).
+
+The above presentation will outline with more information than the segment 2:
+
+1. The selected topic.
+2. Reason why the topic was selected.
+3. Description of source of data.
+4. Questions we hope to answer with the data.
+5. A description of the data exploration phase of the project.
+6. A description of the analysis phase of the project.
+7. Technologies , languages , tools and algorithms used throughout the project.
+
+**Github**
+
+A link to the main page of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project).
+
+A link to the branches of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/branches).
 
 
+**Machine Learning Model**
+
+A link to the machine learning model for logistic regression of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Logistic_Regression_Heart_Disease.ipynb)
+
+A link to the machine learning model for random forest model of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Random%20Forest%20Classifier%20Model..ipynb)
+
+Each model describes the following information,
+
+1. Description of data preprocessing 
+2. Description of feature engineering and the feature selection, including their decesion making process.
+3. Description of how data was split in to training and testing sets.
+4. Expalnation of model choice including limitations and benefits.
+5. Explanation of changes in model choice.( between seg 2 seg 3)
+6. Description of how the data have been trained the model and any additional training that took place.
+7. Description of current accuracy score. 
+
+
+**Dashboard**
+
+A link to the dashboard of the Group 7 Final Project GitHub repository can be found [here](https://public.tableau.com/app/profile/ethan.mcbride/viz/HeartDiseaseKeyIndicatorsDashboard/GeneralOverview).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -157,11 +195,60 @@ Tableau Public was the tool used to create the dashboard. The dashboard tells th
 
 ## **Purpose**
 
+The purpose of this assignment was to create a machine learning model that could be used to predict heart disease within individuals, based on seventeen key lifestyle factors including an individual’s body mass index (BMI), physical activity status, age, sex, and various health factors ranging from their smoking status to their sleep time. The machine learning models that were identified to perform this task were a Linear Regression Model and Random Forest Classifier Model; data was oversampled and undersampled within the linear regression model using the “resample” algorithm, while the newly extracted over and undersampled data was used in the Random Forest Classifier model. 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Results**
+
+**Definitions and Calculations of Scores**
+
+Accuracy: the difference between its predicted values and actual values.
+
+Precision: Precision = TP/(TP + FP) Precision is a measure of how reliable a positive classification is.
+
+Sensitivity = TP/(TP + FN) Sensitivity is a measure of the probability of a positive test, conditioned on truly having the condition.
+
+F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance between sensitivity and precision will yield a low F1 score.
+
+
+**Accuracy Score**
+
+-Linear Regression Undersampling Score: 76%
+
+-Linear Regression Oversampling Score: 76%
+
+-Random Forest Classifier Undersampling Score: 64%
+
+
+**Precision Score**
+
+-Linear Regression Undersampling Score: 76%
+
+-Linear Regression Oversampling Score: 77%
+
+-Random Forest Classifier Undersampling Score: 67%
+
+**Recall (Sensitivity) Score**
+
+-Linear Regression Undersampling Score: 76%
+
+-Linear Regression Oversampling Score: 77%
+
+-Random Forest Classifier Undersampling Score: 65%
+
+
+**F1 Score** 
+
+-Linear Regression Undersampling Score: 76%
+
+-Linear Regression Oversampling Score: 77%
+
+-Random Forest Classifier Undersampling Score: 64%
+
+
+A link to images of the results can be found [here](https://github.com/Rangisal/Group-7-Project/tree/main/Images/Results).
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -170,6 +257,13 @@ Tableau Public was the tool used to create the dashboard. The dashboard tells th
 
 **Data Results**
 
+Based on the above accuracy scores, we can see that Linear Regression machine learning model had the highest rate of accuracy with the ability to predict the correct values 77% of the time. Taken individually, the resampling models had similar accuracy scores falling between 76% and 77%, with the both the oversampling and the undersampling techniques receiving the same accuracy score of 76%. The Random Forest Classifier Model fell in this category receiving an accuracy score of only 67% which falls ten percent short of the linear regression model. 
+
+The precision scores for the two machine learning models effectively yielded the same percentages as compared to the accuracy scores. This means that machine learning models can be relied upon to likely predict a positive classification 76%, 77%, and 64% of the time respectively for logistical regression undersampling, for logistical regression oversampling, and Random Forest Classifier Undersampling. However, the precision score alone can tell us very little, and it must be coupled with the sensitivity of the score. The sensitivity scores effectively tell us how reliable in our prediction our tests are, that is to say, how fine-tuned or the probability of a positive test, conditioned on truly having the condition. Based on the above scores, it is evident Linear Regression Models were better tuned to correctly predict heart disease risk potential. The Balanced Random Forest Classifier had a recall score of 65%, while the Linear Regression Model had a recall score of 77%, once again ranking it as the most effective machine learning models for prediction. 
+
+The F1 scores of each model effectively tell us is there is a pronounced imbalance between sensitivity and precision; a pronounced imbalanced will yield a low F1 score. Based on this, we can again see that Random Forest Classifier methods fall short compared to the Linear Regression machine learning models, with the Random Forest Classifier undersampling technique having the lowest F1 score of 0.64 and with the Linear Regression Oversampling having the largest F1 score of 0.77, thereby demonstrating the least disparity between sensitivity and precision.
+
 
 **Recommendation**
 
+Based on the results and the subsequent analysis of the data, it is my recommendation that the Linear Regression machine learning model, oversampling method be adopted for use in predicting credit risk. It consistently had the highest scores, particularly in accuracy, precision, and sensitivity, and thus correctly made the correct predictions compared to the other models.
