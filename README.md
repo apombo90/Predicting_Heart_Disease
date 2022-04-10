@@ -148,7 +148,7 @@ Tableau Public was the tool used to create the dashboard. The dashboard tells th
 ## Segment 3 Deliverables
 
 **Presentation**
-A link to the Google Slides presentation can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Project%20-%20Group%207.pptx).
+A link to the Google Slides presentation can be found [here](https://docs.google.com/presentation/d/1GtclwW8afOzY0mhaW8DeH-n36IszhfB8L265w8wBHSU/edit#slide=id.p1)
 
 The above presentation will outline with more information than the segment 2:
 
