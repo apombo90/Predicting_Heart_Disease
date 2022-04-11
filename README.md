@@ -175,7 +175,7 @@ A link to the branches of the Group 7 Final Project GitHub repository can be fou
 
 A link to the machine learning model for logistic regression of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Logistic_Regression_Heart_Disease.ipynb)
 
-A link to the machine learning model for random forest model of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Random%20Forest%20Classifier%20Model..ipynb) and [here] (https://github.com/Rangisal/Group-7-Project/blob/main/Improving%20Random%20Forest%20Class.ipynb).
+A link to the machine learning model for random forest model of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Random%20Forest%20Classifier%20Model..ipynb) and [here](https://github.com/Rangisal/Group-7-Project/blob/main/Improving%20Random%20Forest%20Class.ipynb).
 
 For Segment 3, we update the Logistical Regression Models to include both oversampling and undersampling algorithms as method of diversifying and testing for the best model. Previously, in Segment 2, the models we used for undersampling had an accuracy score of 89% but this was because the data was binary and skewed in a particular direction, which then caused the model to generalize that the majority of samples would fall into this category. This is evident in the confusion matrix (below) in which one category had a precision of 92% while the other category had a precision of 55%; similarly, all other metrics for this model reflected similar discrepancies.
 
