@@ -191,7 +191,7 @@ A link to the above image can be found [here](https://github.com/Rangisal/Group-
 In addition to the above changes, we also added an additional algorithm to the Random Forest Model for Segment 3. Whereas the original Random Forest Model only tested using an undersampling algorithm, for this segment we added a new algorithm to search with cross validation and search for hyperparameters. This method allowed us to test multiple variables within the data to determine which model achieved the best performance on the dataset.  
 
 **Random Forest Hyperparameter Optimization**
-https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix.png
+![Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162645981-2c9a90c4-dc0d-4694-9234-65811cd5be0d.png)
 A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix.png).
 
 Each model describes the following information,
