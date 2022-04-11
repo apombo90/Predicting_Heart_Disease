@@ -167,11 +167,32 @@ A link to the main page of the Group 7 Final Project GitHub repository can be fo
 A link to the branches of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/branches).
 
 
-**Machine Learning Model**
+***Machine Learning Model**
 
 A link to the machine learning model for logistic regression of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Logistic_Regression_Heart_Disease.ipynb)
 
-A link to the machine learning model for random forest model of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Random%20Forest%20Classifier%20Model..ipynb)
+A link to the machine learning model for random forest model of the Group 7 Final Project GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Random%20Forest%20Classifier%20Model..ipynb) and [here] (https://github.com/Rangisal/Group-7-Project/blob/main/Improving%20Random%20Forest%20Class.ipynb).
+
+For Segment 3, we update the Logistical Regression Models to include both oversampling and undersampling algorithms as method of diversifying and testing for the best model. Previously, in Segment 2, the models we used for undersampling had an accuracy score of 89% but this was because the data was binary and skewed in a particular direction, which then caused the model to generalize that the majority of samples would fall into this category. This is evident in the confusion matrix (below) in which one category had a precision of 92% while the other category had a precision of 55%; similarly, all other metrics for this model reflected similar discrepancies.
+
+![Segment_2_Undersmapling_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162645590-66fe9519-6ad9-4c57-8c99-8d03bb1ded33.png)
+A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_2_Undersmapling_Confusion_Matrix.png).
+
+In segment 3, we accounted for this skew in the data by normalizing the samples using the “resample” function. This was done initially for the undersampling algorithm, in which “n_samples” was set to the minority class. Similarly, this was done again for the oversampling algorithm, but in this case “n_samples” was set to the majority class.  
+
+**Undersampling**
+![Segment_3_Logistic_Regression_Resampling_Undersampling](https://user-images.githubusercontent.com/92111396/162645676-c4186fc3-9581-480d-96ae-f9bbda0aae34.png)
+A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_3_Logistic_Regression_Resampling_Undersampling.png).
+
+**Oversampling**
+Segment_3_Logistic_Regression_Resampling_Oversampling.png
+A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_3_Logistic_Regression_Resampling_Oversampling.png).
+
+In addition to the above changes, we also added an additional algorithm to the Random Forest Model for Segment 3. Whereas the original Random Forest Model only tested using an undersampling algorithm, for this segment we added a new algorithm to search with cross validation and search for hyperparameters. This method allowed us to test multiple variables within the data to determine which model achieved the best performance on the dataset.  
+
+**Random Forest Hyperparameter Optimization**
+https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix.png
+A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix.png).
 
 Each model describes the following information,
 
