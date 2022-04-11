@@ -206,19 +206,24 @@ The accuracy scores for each model are listed here:
 -Random Forest Hyperparameter Optimization: 76%
 
 **Confusion Matrices**
+
 Images of the confusion matrix for each model are listed here:
 
 **Linear Regression Undersampling** 
-
+![Linear_Regression_Undersampling_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646417-1e22047a-d8c4-4da5-a064-46cdc8c137a1.png)
+A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Linear_Regression_Undersampling_Confusion_Matrix.png).
 
 **Linear Regression Oversampling**
-
+![Linear_Regression_Oversampling_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646412-d44020d7-a15b-46be-a765-bb55ed74963d.png)
+A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Linear_Regression_Oversampling_Confusion_Matrix.png).
 
 **Random Forest Undersampling**
-
+![Random_Forest_Undersampling_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646439-9e0b44de-dfa7-4cd0-b972-643db7163629.png)
+A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Random_Forest_Undersampling_Confusion_Matrix.png).
 
 **Random Forest Hyperparameter Optimization**
-
+![Random_Forest_Hyperparameter_Optimization_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646447-2d65292a-0cf3-4268-ad2c-b7e67befb640.png)
+A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Random_Forest_Hyperparameter_Optimization_Confusion_Matrix.png).
 
 **Dashboard**
 
