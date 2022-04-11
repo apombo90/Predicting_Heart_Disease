@@ -157,7 +157,7 @@ The above presentation will outline with more information than the segment 2:
 3. Description of source of data.
 4. Questions we hope to answer with the data.
 5. A description of the data exploration phase of the project.
-   - As the data set was too big , broke it in to data set categorical and continuous. To utilize different skill sets for the categorical variable correlation clculated heatmap and the continuous variables correlation have been calulated in excel. The links for the dataset and the correlation can be found here.
+   - As the data set was too big , broke it in to two data set as categorical and continuous by using dummies data set. To utilize different skill sets for the categorical variable correlation clculated heatmap and the continuous variables correlation have been calulated in excel. The links for the dataset and the correlation can be found here.
 Dataset - [here](https://github.com/Rangisal/Group-7-Project/tree/main/Resources)
 correlation - [here](https://github.com/Rangisal/Group-7-Project/blob/main/Correlation%20among%20the%20variables.ipynb)
    
