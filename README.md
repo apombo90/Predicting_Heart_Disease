@@ -194,15 +194,30 @@ In addition to the above changes, we also added an additional algorithm to the R
 ![Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162645981-2c9a90c4-dc0d-4694-9234-65811cd5be0d.png)
 A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix.png).
 
-Each model describes the following information,
+**Accuracy Scores**
+The accuracy scores for each model are listed here:
 
-1. Description of data preprocessing 
-2. Description of feature engineering and the feature selection, including their decesion making process.
-3. Description of how data was split in to training and testing sets.
-4. Expalnation of model choice including limitations and benefits.
-5. Explanation of changes in model choice.( between seg 2 seg 3)
-6. Description of how the data have been trained the model and any additional training that took place.
-7. Description of current accuracy score. 
+-Linear Regression Undersampling: 76%
+
+-Linear Regression Oversampling: 76%
+
+-Random Forest Undersampling: 64%
+
+-Random Forest Hyperparameter Optimization: 76%
+
+**Confusion Matrices**
+Images of the confusion matrix for each model are listed here:
+
+**Linear Regression Undersampling** 
+
+
+**Linear Regression Oversampling**
+
+
+**Random Forest Undersampling**
+
+
+**Random Forest Hyperparameter Optimization**
 
 
 **Dashboard**
