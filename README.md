@@ -259,7 +259,6 @@ A link to the dashboard of the Group 7 Final Project GitHub repository can be fo
 
 The purpose of this assignment was to create a machine learning model that could be used to predict heart disease within individuals, based on seventeen key lifestyle factors including an individual’s body mass index (BMI), physical activity status, age, sex, and various health factors ranging from their smoking status to their sleep time. The machine learning models that were identified to perform this task were a Linear Regression Model and Random Forest Classifier Model; data was oversampled and undersampled within the linear regression model using the “resample” algorithm, while the newly extracted over and undersampled data was used in the Random Forest Classifier model. 
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Results**
@@ -310,7 +309,9 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance
 - XGBoost: 76%
 
 
-A link to images of the results can be found [here](https://github.com/Rangisal/Group-7-Project/tree/main/Images/Results).
+**Dashboard**
+
+A link to the dashboard of the Group 7 Final Project GitHub repository can be found [here](https://public.tableau.com/views/HeartDiseasePrediction_16498175885680/HeartDiseasePrediction?:language=en-US&:display_count=n&:origin=viz_share_link).s).
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -325,6 +326,9 @@ The precision scores for the two machine learning models effectively yielded the
 
 The F1 scores of each model effectively tell us is there is a pronounced imbalance between sensitivity and precision; a pronounced imbalanced will yield a low F1 score. Based on this, we can again see that once again, each model is equally capable and effectively balances sensitivity and precision to the same extent as each model received an F1 score of 76%, thereby demonstrating the equal disparity between sensitivity and precision.
 
+**Dashboard**
+
+A link to the dashboard of the Group 7 Final Project GitHub repository can be found here.
 
 **Recommendation**
 
