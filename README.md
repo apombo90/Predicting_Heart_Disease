@@ -224,7 +224,7 @@ Images of the confusion matrix for each model are listed here:
 
 A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Linear_Regression_Undersampling_Confusion_Matrix.png).
 
-**Linear Regression Oversampling**
+**Logistic Regression Oversampling**
 
 ![Linear_Regression_Oversampling_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646412-d44020d7-a15b-46be-a765-bb55ed74963d.png)
 
@@ -257,7 +257,7 @@ A link to the dashboard of the Group 7 Final Project GitHub repository can be fo
 
 ## **Purpose**
 
-The purpose of this assignment was to create a machine learning model that could be used to predict heart disease within individuals, based on seventeen key lifestyle factors including an individual’s body mass index (BMI), physical activity status, age, sex, and various health factors ranging from their smoking status to their sleep time. The machine learning models that were identified to perform this task were a Linear Regression Model and Random Forest Classifier Model; data was oversampled and undersampled within the linear regression model using the “resample” algorithm, while the newly extracted over and undersampled data was used in the Random Forest Classifier model. 
+The purpose of this assignment was to create a machine learning model that could be used to predict heart disease within individuals, based on seventeen key lifestyle factors including an individual’s body mass index (BMI), physical activity status, age, sex, and various health factors ranging from their smoking status to their sleep time. The machine learning models that were identified to perform this task were a Logistic Regression Model and Random Forest Classifier Model; data was oversampled and undersampled within the logistic regression model using the “resample” algorithm, while the newly extracted over and undersampled data was used in the Random Forest Classifier model. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -320,7 +320,7 @@ A link to the dashboard of the Group 7 Final Project GitHub repository can be fo
 
 **Data Results**
 
-Based on the above accuracy scores, we can see that Linear Regression machine learning model had the highest rate of accuracy with the ability to predict the correct values 76% of the time. Taken individually, the resampling models had similar accuracy scores falling between 75% and 77%, with the both the oversampling and the undersampling techniques receiving the same accuracy score of 76%. Before normalization of the data, the Random Forest Classifier Model received an accuracy score of only 67% which falls ten percent short of the linear regression model, however with the data being scaled (normalized), this improved the accuracy to 73%. This score was further enhanced by implementing a hyperparameter optimization model, which raised the accuracy score for the Radom Forest model to 76%. The XGBoost model had the lowest accuracy score of 75.85; this difference however is not statistically significant, and all models can be considered to have similar accuracy scores.
+Based on the above accuracy scores, we can see that Logistic Regression machine learning model had the highest rate of accuracy with the ability to predict the correct values 76% of the time. Taken individually, the resampling models had similar accuracy scores falling between 75% and 77%, with the both the oversampling and the undersampling techniques receiving the same accuracy score of 76%. Before normalization of the data, the Random Forest Classifier Model received an accuracy score of only 67% which falls ten percent short of the logistic regression model, however with the data being scaled (normalized), this improved the accuracy to 73%. This score was further enhanced by implementing a hyperparameter optimization model, which raised the accuracy score for the Radom Forest model to 76%. The XGBoost model had the lowest accuracy score of 75.85; this difference however is not statistically significant, and all models can be considered to have similar accuracy scores.
 
 The precision scores for the two machine learning models effectively yielded the same percentages as compared to the accuracy scores. This means that machine learning models can be relied upon to likely predict a positive classification 76%, 77%, and 76% of the time respectively for logistical regression over and undersampling models, the Random Forest Classifier Undersampling, and the XGBoost model. However, the precision score alone can tell us very little, and it must be coupled with the sensitivity of the score. The sensitivity scores effectively tell us how reliable in our prediction our tests are, that is to say, how fine-tuned or the probability of a positive test, conditioned on truly having the condition. Based on the above scores, it is evident that all models are equally tuned to correctly predict heart disease risk potential, each receiving the exact same sensitivity score of 76%.
 
