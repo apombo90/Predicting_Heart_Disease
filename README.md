@@ -326,9 +326,6 @@ The precision scores for the two machine learning models effectively yielded the
 
 The F1 scores of each model effectively tell us is there is a pronounced imbalance between sensitivity and precision; a pronounced imbalanced will yield a low F1 score. Based on this, we can again see that once again, each model is equally capable and effectively balances sensitivity and precision to the same extent as each model received an F1 score of 76%, thereby demonstrating the equal disparity between sensitivity and precision.
 
-**Dashboard**
-
-A link to the dashboard of the Group 7 Final Project GitHub repository can be found here.
 
 **Recommendation**
 
