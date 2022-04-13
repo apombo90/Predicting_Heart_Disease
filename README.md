@@ -26,7 +26,7 @@ Using the machine learning model, determine its ability to accurately predict he
 
 -Software: `Python 3.7.10`, `Visual Studio Code 1.38.1`, `Jupyter Notebook`, `Anaconda3`, `PgAdmin`. 
 
--Resources: https://www.kaggle.com/datasets?search=heart+disease.
+-Resources: https://www.kaggle.com/datasets?search=heart+disease, https://scikit-learn.org/stable/modules/cross_validation.html, https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d#:~:text=What%20is%20XGBoost%3F,all%20other%20algorithms%20or%20frameworks, https://help.tableau.com/current/pro/desktop/en-us/formatting_fonts_beta.htm.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
