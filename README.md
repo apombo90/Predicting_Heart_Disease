@@ -311,7 +311,7 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance
 
 **Dashboard**
 
-A link to the dashboard of the Group 7 Final Project GitHub repository can be found [here](https://public.tableau.com/views/HeartDiseasePrediction_16498175885680/HeartDiseasePrediction?:language=en-US&:display_count=n&:origin=viz_share_link).s).
+A link to the dashboard of the Group 7 Final Project GitHub repository can be found [here](https://public.tableau.com/views/HeartDiseasePrediction_16498175885680/HeartDiseasePrediction?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
