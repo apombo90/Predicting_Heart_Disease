@@ -208,19 +208,17 @@ A link to the above image can be found [here](https://github.com/Rangisal/Group-
 
 The accuracy scores for each model are listed here:
 
--Linear Regression Undersampling: 76%
+- Logistic Regression: 76.4%
 
--Linear Regression Oversampling: 76%
+- Random Forest Classifier:  76.5%
 
--Random Forest Undersampling: 64%
-
--Random Forest Hyperparameter Optimization: 76%
+- XGBoost: 75.8%
 
 **Confusion Matrices**
 
 Images of the confusion matrix for each model are listed here:
 
-**Linear Regression Undersampling** 
+**Logistic Regression** 
 
 ![Linear_Regression_Undersampling_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646417-1e22047a-d8c4-4da5-a064-46cdc8c137a1.png)
 
@@ -243,6 +241,10 @@ A link to the above image can be found [here](https://github.com/Rangisal/Group-
 ![Random_Forest_Hyperparameter_Optimization_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646447-2d65292a-0cf3-4268-ad2c-b7e67befb640.png)
 
 A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Random_Forest_Hyperparameter_Optimization_Confusion_Matrix.png).
+
+**XGBoost**
+
+HEREE
 
 **Dashboard**
 
@@ -275,37 +277,37 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity) A pronounced imbalance
 
 **Accuracy Score**
 
--Linear Regression Undersampling Score: 76%
+- Logistic Regression: 76.4%
 
--Linear Regression Oversampling Score: 76%
+- Random Forest Classifier:  76.5%
 
--Random Forest Classifier Undersampling Score: 64%
+- XGBoost: 75.8%
 
 
 **Precision Score**
 
--Linear Regression Undersampling Score: 76%
+- Logistic Regression: 76%
 
--Linear Regression Oversampling Score: 77%
+- Random Forest Classifier:  77%
 
--Random Forest Classifier Undersampling Score: 67%
+- XGBoost: 76%
 
 **Recall (Sensitivity) Score**
 
--Linear Regression Undersampling Score: 76%
+- Logistic Regression: 76%
 
--Linear Regression Oversampling Score: 77%
+- Random Forest Classifier:  76%
 
--Random Forest Classifier Undersampling Score: 65%
+- XGBoost: 76%
 
 
 **F1 Score** 
 
--Linear Regression Undersampling Score: 76%
+- Logistic Regression: 76%
 
--Linear Regression Oversampling Score: 77%
+- Random Forest Classifier:  76%
 
--Random Forest Classifier Undersampling Score: 64%
+- XGBoost: 76%
 
 
 A link to images of the results can be found [here](https://github.com/Rangisal/Group-7-Project/tree/main/Images/Results).
