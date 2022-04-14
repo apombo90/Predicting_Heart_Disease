@@ -244,7 +244,7 @@ A link to the above image can be found [here](https://github.com/Rangisal/Group-
 
 **XGBoost**
 
-HEREE
+![image](https://user-images.githubusercontent.com/91766276/163474127-91455a29-5bfe-4f98-b251-8f35ab471144.png)
 
 **Dashboard**
 
