@@ -36,30 +36,30 @@ Selected an open-source dataset from Kaggle that that contains data pertaining t
 
 We update the Logistical Regression Models to include both oversampling and undersampling algorithms as method of diversifying and testing for the best model. Previously, in Segment 2, the models we used for undersampling had an accuracy score of 89% but this was because the data was binary and skewed in a particular direction, which then caused the model to generalize that the majority of samples would fall into this category. This is evident in the confusion matrix (below) in which one category had a precision of 92% while the other category had a precision of 55%; similarly, all other metrics for this model reflected similar discrepancies.
 
-![Segment_2_Undersmapling_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162645590-66fe9519-6ad9-4c57-8c99-8d03bb1ded33.png)
+![Segment_2_Undersmapling_Confusion_Matrix](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Segment_2_Undersmapling_Confusion_Matrix.png)
 
-A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_2_Undersmapling_Confusion_Matrix.png).
+A link to the above image can be found [here](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Segment_2_Undersmapling_Confusion_Matrix.png).
 
-In segment 3, we accounted for this skew in the data by normalizing the samples using the “resample” function. This was done initially for the undersampling algorithm, in which “n_samples” was set to the minority class. Similarly, this was done again for the oversampling algorithm, but in this case “n_samples” was set to the majority class.  
+We accounted for this skew in the data by normalizing the samples using the “resample” function. This was done initially for the undersampling algorithm, in which “n_samples” was set to the minority class. Similarly, this was done again for the oversampling algorithm, but in this case “n_samples” was set to the majority class.  
 
 - **Undersampling**
 
-![Segment_3_Logistic_Regression_Resampling_Undersampling](https://user-images.githubusercontent.com/92111396/162645676-c4186fc3-9581-480d-96ae-f9bbda0aae34.png)
+![Segment_3_Logistic_Regression_Resampling_Undersampling](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Segment_3_Logistic_Regression_Resampling_Undersampling.png)
 
-A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_3_Logistic_Regression_Resampling_Undersampling.png).
+A link to the above image can be found [here](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Segment_3_Logistic_Regression_Resampling_Undersampling.png).
 
 - **Oversampling**
 
 Segment_3_Logistic_Regression_Resampling_Oversampling.png
-A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_3_Logistic_Regression_Resampling_Oversampling.png).
+A link to the above image can be found [here](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Segment_3_Logistic_Regression_Resampling_Oversampling.png).
 
 In addition to the above changes, we also added an additional algorithm to the Random Forest Model for Segment 3. Whereas the original Random Forest Model only tested using an undersampling algorithm, for this segment we added a new algorithm to search with cross validation and search for hyperparameters. This method allowed us to test multiple variables within the data to determine which model achieved the best performance on the dataset.  
 
 - **Random Forest Hyperparameter Optimization**
 
-![Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162645981-2c9a90c4-dc0d-4694-9234-65811cd5be0d.png)
+![Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix.png)
 
-A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix.png).
+A link to the above image can be found [here](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Segment_3_Random_Forest_Hyperparameter_Optimization_Accuracy_Score_Confusion_Matrix.png).
 
 - **Accuracy Scores**
 
@@ -77,35 +77,35 @@ Images of the confusion matrix for each model are listed here:
 
 - **Logistic Regression** 
 
-![Linear_Regression_Undersampling_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646417-1e22047a-d8c4-4da5-a064-46cdc8c137a1.png)
+![Linear_Regression_Undersampling_Confusion_Matrix](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Linear_Regression_Undersampling_Confusion_Matrix.png)
 
-A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Linear_Regression_Undersampling_Confusion_Matrix.png).
+A link to the above image can be found [here](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Linear_Regression_Undersampling_Confusion_Matrix.png).
 
 - **Logistic Regression Oversampling**
 
-![Linear_Regression_Oversampling_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646412-d44020d7-a15b-46be-a765-bb55ed74963d.png)
+![Linear_Regression_Oversampling_Confusion_Matrix](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Linear_Regression_Oversampling_Confusion_Matrix.png)
 
-A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Linear_Regression_Oversampling_Confusion_Matrix.png).
+A link to the above image can be found [here](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Linear_Regression_Oversampling_Confusion_Matrix.png).
 
 - **Random Forest Undersampling**
 
-![Random_Forest_Undersampling_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646439-9e0b44de-dfa7-4cd0-b972-643db7163629.png)
+![Random_Forest_Undersampling_Confusion_Matrix](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Random_Forest_Undersampling_Confusion_Matrix.png)
 
-A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Random_Forest_Undersampling_Confusion_Matrix.png).
+A link to the above image can be found [here](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Random_Forest_Undersampling_Confusion_Matrix.png).
 
 - **Random Forest Hyperparameter Optimization**
 
-![Random_Forest_Hyperparameter_Optimization_Confusion_Matrix](https://user-images.githubusercontent.com/92111396/162646447-2d65292a-0cf3-4268-ad2c-b7e67befb640.png)
+![Random_Forest_Hyperparameter_Optimization_Confusion_Matrix](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Random_Forest_Hyperparameter_Optimization_Confusion_Matrix.png)
 
-A link to the above image can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/Images/Random_Forest_Hyperparameter_Optimization_Confusion_Matrix.png).
+A link to the above image can be found [here](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/Random_Forest_Hyperparameter_Optimization_Confusion_Matrix.png).
 
 - **XGBoost**
 
-![image](https://user-images.githubusercontent.com/91766276/163474127-91455a29-5bfe-4f98-b251-8f35ab471144.png)
+![image](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/Images/XgBoost.png)
 
 **Database**
 
-A link displaying the code in the database of the GitHub repository can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/binary_nonbinary_tables.sql) where two tables were created, one with binary data and the second table only containing non-binary data. We were able to join both tables using an inner join on the **id** column, the join can be found [here](https://github.com/Rangisal/Group-7-Project/blob/main/tables_join.sql).
+A link displaying the code in the database of the GitHub repository can be found [here](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/binary_nonbinary_tables.sql) where two tables were created, one with binary data and the second table only containing non-binary data. We were able to join both tables using an inner join on the **id** column, the join can be found [here](https://github.com/apombo90/Predicting_Heart_Disease/blob/main/tables_join.sql).
 
 ![image](https://user-images.githubusercontent.com/91766276/161567395-db098bfb-6429-4fd0-a77e-43695c2a18b2.png) ![image](https://user-images.githubusercontent.com/91766276/161568335-0967fd5d-024b-4974-8e41-e16e763810ff.png)
 
